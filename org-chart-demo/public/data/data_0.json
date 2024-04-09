@@ -1,0 +1,767 @@
+[
+  {
+    "ID": 100,
+    "ParentID": 101,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 100,
+    "ParentID": 102,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 24.35
+  },
+  {
+    "ID": 100,
+    "ParentID": 103,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 22.36
+  },
+  {
+    "ID": 100,
+    "ParentID": 104,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 10.21
+  },
+  {
+    "ID": 100,
+    "ParentID": 105,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 57.26
+  },
+  {
+    "ID": 100,
+    "ParentID": 106,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 100,
+    "ParentID": 107,
+    "Name": "Plunderpalast GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 81766",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 25.84
+  },
+  {
+    "ID": 101,
+    "ParentID": "",
+    "Name": "Frau Emily Braun",
+    "DateOfBirth_OR_RegisterNumber": "*11.12.1980",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 102,
+    "ParentID": "",
+    "Name": "Dr. Paul Hoffmann",
+    "DateOfBirth_OR_RegisterNumber": "*22.12.1976",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 103,
+    "ParentID": "",
+    "Name": "Herr Peter Hoffmann",
+    "DateOfBirth_OR_RegisterNumber": "*28.04.1999",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 104,
+    "ParentID": 105,
+    "Name": "SmartSolutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 23867",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 52.38
+  },
+  {
+    "ID": 104,
+    "ParentID": 106,
+    "Name": "SmartSolutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 23867",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 43.47
+  },
+  {
+    "ID": 104,
+    "ParentID": 107,
+    "Name": "SmartSolutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 23867",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 57.18
+  },
+  {
+    "ID": 105,
+    "ParentID": "",
+    "Name": "Dr. Paul Hoffmann",
+    "DateOfBirth_OR_RegisterNumber": "*22.12.1976",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 106,
+    "ParentID": 107,
+    "Name": "Kaiserberg Group AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 12345",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 106,
+    "ParentID": 108,
+    "Name": "Kaiserberg Group AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 12345",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 84.35
+  },
+  {
+    "ID": 107,
+    "ParentID": 108,
+    "Name": "GlobalLogic Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 107,
+    "ParentID": 109,
+    "Name": "GlobalLogic Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 80.06
+  },
+  {
+    "ID": 107,
+    "ParentID": 110,
+    "Name": "GlobalLogic Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 53.14
+  },
+  {
+    "ID": 107,
+    "ParentID": 111,
+    "Name": "GlobalLogic Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 5.69
+  },
+  {
+    "ID": 107,
+    "ParentID": 112,
+    "Name": "GlobalLogic Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 32.92
+  },
+  {
+    "ID": 107,
+    "ParentID": 113,
+    "Name": "GlobalLogic Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 108,
+    "ParentID": "",
+    "Name": "Frau Anna Wagner",
+    "DateOfBirth_OR_RegisterNumber": "*25.05.1960",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 109,
+    "ParentID": "",
+    "Name": "Herr Leon Fischer",
+    "DateOfBirth_OR_RegisterNumber": "*03.09.1981",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 110,
+    "ParentID": 111,
+    "Name": "Die Party Firma GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 61312",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 99.65
+  },
+  {
+    "ID": 110,
+    "ParentID": 112,
+    "Name": "Die Party Firma GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 61312",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 93.11
+  },
+  {
+    "ID": 111,
+    "ParentID": "",
+    "Name": "Frau Lena Richter",
+    "DateOfBirth_OR_RegisterNumber": "*10.06.1992",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 112,
+    "ParentID": 113,
+    "Name": "GigaFact GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 112,
+    "ParentID": 114,
+    "Name": "GigaFact GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 76.49
+  },
+  {
+    "ID": 112,
+    "ParentID": 115,
+    "Name": "GigaFact GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRA 7890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 57.78
+  },
+  {
+    "ID": 113,
+    "ParentID": "",
+    "Name": "Frau Johanna Meier",
+    "DateOfBirth_OR_RegisterNumber": "*27.04.1954",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 114,
+    "ParentID": 115,
+    "Name": "Upsilon Ventures GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 948019 ?",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 30.28
+  },
+  {
+    "ID": 115,
+    "ParentID": "",
+    "Name": "Herr Kurt Klein",
+    "DateOfBirth_OR_RegisterNumber": "*13.06.2004",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 116,
+    "ParentID": 117,
+    "Name": "TechPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 60502",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 54.1
+  },
+  {
+    "ID": 116,
+    "ParentID": 118,
+    "Name": "TechPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 60502",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 7.28
+  },
+  {
+    "ID": 116,
+    "ParentID": 119,
+    "Name": "TechPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 60502",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 117,
+    "ParentID": "",
+    "Name": "Herr Prof. Hans Weber",
+    "DateOfBirth_OR_RegisterNumber": "*14.01.1963",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 118,
+    "ParentID": 119,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 118,
+    "ParentID": 120,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 72.39
+  },
+  {
+    "ID": 118,
+    "ParentID": 121,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 48.98
+  },
+  {
+    "ID": 118,
+    "ParentID": 122,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 55
+  },
+  {
+    "ID": 118,
+    "ParentID": 123,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 99.76
+  },
+  {
+    "ID": 118,
+    "ParentID": 124,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 98.33
+  },
+  {
+    "ID": 118,
+    "ParentID": 125,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 119,
+    "ParentID": 120,
+    "Name": "Beta AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 766825",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 20.55
+  },
+  {
+    "ID": 119,
+    "ParentID": 121,
+    "Name": "Beta AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 766825",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 74.59
+  },
+  {
+    "ID": 119,
+    "ParentID": 122,
+    "Name": "Beta AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 766825",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 29.86
+  },
+  {
+    "ID": 120,
+    "ParentID": 121,
+    "Name": "SmartCode AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 39874",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 86.9
+  },
+  {
+    "ID": 120,
+    "ParentID": 122,
+    "Name": "SmartCode AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 39874",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 120,
+    "ParentID": 123,
+    "Name": "SmartCode AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 39874",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 120,
+    "ParentID": 124,
+    "Name": "SmartCode AG",
+    "DateOfBirth_OR_RegisterNumber": "HRB 39874",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 92.48
+  },
+  {
+    "ID": 121,
+    "ParentID": 122,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 86.39
+  },
+  {
+    "ID": 121,
+    "ParentID": 123,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 62.87
+  },
+  {
+    "ID": 121,
+    "ParentID": 124,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 45.47
+  },
+  {
+    "ID": 121,
+    "ParentID": 125,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 2.44
+  },
+  {
+    "ID": 121,
+    "ParentID": 126,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 83.71
+  },
+  {
+    "ID": 121,
+    "ParentID": 127,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 83.84
+  },
+  {
+    "ID": 121,
+    "ParentID": 128,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 121,
+    "ParentID": 129,
+    "Name": "Wunderbare Wanderlust GmbH & Co. KG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 34890",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 20.15
+  },
+  {
+    "ID": 122,
+    "ParentID": 123,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 38.71
+  },
+  {
+    "ID": 122,
+    "ParentID": 124,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 14.87
+  },
+  {
+    "ID": 122,
+    "ParentID": 125,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 5.99
+  },
+  {
+    "ID": 122,
+    "ParentID": 126,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 122,
+    "ParentID": 127,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 26.46
+  },
+  {
+    "ID": 122,
+    "ParentID": 128,
+    "Name": "Sigma Solutions GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 665037",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 123,
+    "ParentID": "",
+    "Name": "Frau Maria Schulz",
+    "DateOfBirth_OR_RegisterNumber": "*06.06.2001",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 124,
+    "ParentID": "",
+    "Name": "Herr Alexander Berger",
+    "DateOfBirth_OR_RegisterNumber": "*29.04.1993",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 125,
+    "ParentID": "",
+    "Name": "Herr Markus Schmitt",
+    "DateOfBirth_OR_RegisterNumber": "*02.06.1943",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 126,
+    "ParentID": 127,
+    "Name": "Schwarzberg Holdings GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 54321",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 14.97
+  },
+  {
+    "ID": 126,
+    "ParentID": 128,
+    "Name": "Schwarzberg Holdings GmbH",
+    "DateOfBirth_OR_RegisterNumber": "HRB 54321",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 127,
+    "ParentID": "",
+    "Name": "Herr Alexander Becker",
+    "DateOfBirth_OR_RegisterNumber": "*29.01.1962",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 128,
+    "ParentID": 129,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 128,
+    "ParentID": 130,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 71.55
+  },
+  {
+    "ID": 128,
+    "ParentID": 131,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 128,
+    "ParentID": 132,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 22.13
+  },
+  {
+    "ID": 128,
+    "ParentID": 133,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "control",
+    "CommercialInterestAmount": 100
+  },
+  {
+    "ID": 128,
+    "ParentID": 134,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "capital",
+    "CommercialInterestAmount": 49.53
+  },
+  {
+    "ID": 128,
+    "ParentID": 135,
+    "Name": "NetPro AG",
+    "DateOfBirth_OR_RegisterNumber": "HRA 67495",
+    "Type": "LP",
+    "CommercialInterestReason": "voting",
+    "CommercialInterestAmount": 89.09
+  },
+  {
+    "ID": 129,
+    "ParentID": "",
+    "Name": "Herr Ben Wagner",
+    "DateOfBirth_OR_RegisterNumber": "*26.09.1985",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 130,
+    "ParentID": "",
+    "Name": "Herr Kurt Mueller",
+    "DateOfBirth_OR_RegisterNumber": "*23.02.1989",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 131,
+    "ParentID": "",
+    "Name": "Frau Julia Lehmann",
+    "DateOfBirth_OR_RegisterNumber": "*21.08.1967",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 132,
+    "ParentID": "",
+    "Name": "Frau Dr. Helga Meier",
+    "DateOfBirth_OR_RegisterNumber": "*25.12.1984",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 133,
+    "ParentID": "",
+    "Name": "Herr Alexander Weber",
+    "DateOfBirth_OR_RegisterNumber": "*30.04.1980",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 134,
+    "ParentID": "",
+    "Name": "Frau Elisabeth Becker",
+    "DateOfBirth_OR_RegisterNumber": "*21.09.1960",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  },
+  {
+    "ID": 135,
+    "ParentID": "",
+    "Name": "Herr Max Mueller",
+    "DateOfBirth_OR_RegisterNumber": "*29.07.1982",
+    "Type": "NP",
+    "CommercialInterestReason": "",
+    "CommercialInterestAmount": ""
+  }
+]
