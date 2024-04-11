@@ -1,5 +1,9 @@
 import React, { useLayoutEffect, useRef, useEffect } from 'react';
 import { OrgChart } from 'd3-org-chart';
+import tippy from 'tippy.js';
+import 'tippy.js/dist/tippy.css'; // optional for styling
+
+
 import * as d3 from 'd3'
 
 
@@ -66,6 +70,10 @@ export const OrgChartComponent = (props, ref) => {
                         </div>`;
                 })
                 .nodeUpdate(function (d, i, arr) {
+                    tippy(this, {
+                        content: props.tip(d),
+                        allowHTML: true,
+                    });
 
                     const node = d3.select(this);
                     const parentNode = node.node()
@@ -85,8 +93,7 @@ export const OrgChartComponent = (props, ref) => {
                                 return;
                             }
                             if (event.key === 'Enter' || event.key === ' ' || event.key === 'Spacebar') {
-                                d.data._selected = !d.data._selected;
-                                chartRef.current.render()
+                                nodeSelect(d, chartRef.current)
                             }
                         }
                     })
@@ -107,8 +114,7 @@ export const OrgChartComponent = (props, ref) => {
                         if (e.srcElement.classList.contains('slider')) {
                             return;
                         }
-                        d.data._selected = !d.data._selected;
-                        chartRef.current.render();
+                        nodeSelect(d, chartRef.current)
                     })
                 })
                 .data(hierarchicalData)
@@ -129,6 +135,14 @@ export const OrgChartComponent = (props, ref) => {
     );
 };
 
+function nodeSelect(d, chart) {
+    d.data._selected = !d.data._selected;
+    chart.data().filter(dataObj => dataObj.ID == d.data.ID)
+        .forEach(dataObj => {
+            dataObj._selected = d.data._selected
+        })
+    chart.updateNodesState()
+}
 
 function buttonConfirm(d, chart) {
     d.data._confirmed = !d.data._confirmed;

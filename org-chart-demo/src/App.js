@@ -49,6 +49,20 @@ function App() {
         onRedirectButtonClick()
       }}>Redirect With Selected Nodes Data</button>
       <OrgChartComponent
+        tip={node => {
+          return `<div style="margin:0px;"> 
+                    <div style="padding:5px;display:flex;justify-content:space-between;flex-direction:column">
+                        <div style="font-weight:bold;margin-bottom:10px;">
+                          ${node.data.Name}
+                        </div>
+                        <div style="display:grid;grid-template-columns:auto auto;column-gap:10px">
+                            <div>ID</div><div style="font-weight:bold">${node.data.ID}</div>
+                            <div>Commercial Int. Reason</div><div style="font-weight:bold">${node.data.CommercialInterestReason}</div>
+                            <div>Commercial Int. Amount</div><div style="font-weight:bold">${node.data.CommercialInterestAmount}</div>
+                        </div>
+                    </div>
+              </div>`;
+        }}
         setOrgChart={setOrgChart}
         data={currentData}
       />
